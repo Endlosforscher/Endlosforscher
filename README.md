@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available [@Endlosforscher]([github.com/Endlosforscher](https://github.com/Endlosforscher))
+- 👨‍💻 All of my projects are available at github.com/Endlosforscher
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
