@@ -77,6 +77,22 @@
   </a>
  </p>
 
+<h3 align="center">Static Site Generator</h3>
+<p align="center">
+      <a href="https://gohugo.io" target="_blank">
+    <img src="https://img.shields.io/badge/hugo-ff4088.svg?style=for-the-badge&logo=hugo&logoColor=white"
+      alt="Hugo"/>
+  </a>
+ </p>
+
+<h3 align="center">CMS</h3>
+<p align="center">
+      <a href="https://wordpress.com" target="_blank">
+    <img src="https://img.shields.io/badge/wordpress-0D4D77.svg?style=for-the-badge&logo=wordpress&logoColor=white"
+      alt="Wordpress"/>
+  </a>
+ </p>
+
 ----
 
 <h3 align="center">Connect with me</h3>
