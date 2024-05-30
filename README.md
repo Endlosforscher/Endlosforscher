@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Endlosforscher">@Endlosforscher</a>
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Truly obsessed with SEO (Search Engine Optimization), Google Core Web Vitals and Web Performances
 
 
 ---
