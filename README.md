@@ -64,6 +64,14 @@
     <img src="https://img.shields.io/badge/vuejs-42b883.svg?style=for-the-badge"
       alt="Vuejs"/>
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/reactjs-61dbfb.svg?style=for-the-badge"
+      alt="React"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tailwind-00bcff.svg?style=for-the-badge"
+      alt="Tailwind"/>
+  </a>
 </p>
 
 <h3 align="center">UX/UI</h3>
